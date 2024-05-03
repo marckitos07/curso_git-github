@@ -1,7 +1,4 @@
-Hola a todos
+Ahora estoy en la rama de prueba 2
 
-Adios a todos
+sera verdad??
 
-gracias por todo.
-
-Ahora lo borramos desde hub, para ver local
