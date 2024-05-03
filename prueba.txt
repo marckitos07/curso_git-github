@@ -2,5 +2,6 @@ Hola a todos
 
 Adios a todos
 
-"Es una prueba de que funciono el ssh"
 gracias por todo.
+
+Ahora lo borramos desde hub, para ver local
