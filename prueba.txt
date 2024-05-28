@@ -2,6 +2,10 @@ Ahora estoy en la rama de prueba 2
 
 sera verdad??
 
+<<<<<<< HEAD
 asdasdasd
 asdasdasda
 
+=======
+otro bug creamos para la branch bugNuevo de DevOps
+>>>>>>> 76f26673e183041b8ac2e59d3850c056a0f5c68f
